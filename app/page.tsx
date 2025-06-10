@@ -15,7 +15,7 @@ export default function Home() {
             className="mb-0"
           />
           <Link href="/design-system" scroll={false}>
-            <Button variant="ghost" size="sm">
+            <Button variant="secondary">
               View Design System
             </Button>
           </Link>
